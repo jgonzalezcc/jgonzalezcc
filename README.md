@@ -36,9 +36,15 @@ Además, integro activamente herramientas de **IA Generativa** en flujos de trab
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Excel_Avanzado-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-#### **Inteligencia Artificial Aplicada**
+#### **Inteligencia Artificial Aplicada & Herramientas Avanzadas**
+![Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
+![Kiro](https://img.shields.io/badge/Kiro-7C3AED?style=flat-square)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-4A154B?style=flat-square&logo=openai&logoColor=white)
 ![LLM Integration](https://img.shields.io/badge/LLMs_(Claude_|_ChatGPT_|_Gemini)-0A85EA?style=flat-square&logo=google&logoColor=white)
+
+#### **Entornos de Desarrollo & Cloud**
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_Básico_(EC2_|_S3)-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
 #### **People Analytics & Evaluación Organizacional**
 ![People Analytics](https://img.shields.io/badge/People_Analytics-6C5CE7?style=flat-square)
