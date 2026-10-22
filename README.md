@@ -55,17 +55,17 @@ Además, integro activamente herramientas de **IA Generativa** en flujos de trab
 
 ### 🚀 Proyectos Destacados
 
-#### 🔹 [Sistema Predictivo de Burnout Laboral (People Analytics)](https://github.com/jgonzalezcc)
+#### 🔹 Sistema Predictivo de Burnout Laboral (People Analytics)
 - **Contexto:** Diplomado en Ciencia de Datos, Pontificia Universidad Católica de Chile.
 - **Descripción:** Desarrollo de un modelo predictor para estimar el riesgo de agotamiento laboral (*burnout*) a partir de variables administrativas y de gestión de personas utilizadas como *proxies* conductuales.
 - **Metodología & Modelado:** Exploración exhaustiva de datos, ingeniería de variables y contraste comparativo de modelos supervisados (**Regresión Logística, K-Nearest Neighbors y Random Forest**).
 - **Foco:** Validación metodológica e interpretabilidad de resultados para la prevención temprana del desgaste organizacional.
 
-#### 🔹 [Investigación: Uso Ético de la Inteligencia Artificial en Psicología](https://github.com/jgonzalezcc)
+#### 🔹 Investigación: Uso Ético de la Inteligencia Artificial en Psicología
 - **Institución:** Centro de Atención Psicosocial (CAPS).
 - **Aporte:** Liderazgo en el proyecto de investigación analizando el impacto, riesgos y gobernanza ética de tecnologías emergentes y herramientas de IA aplicadas a la salud mental y la gestión clínica de datos.
 
-#### 🔹 [Diseño & Aplicación de Metodologías de Evaluación de Talento](https://github.com/jgonzalezcc)
+#### 🔹 Diseño & Aplicación de Metodologías de Evaluación de Talento
 - **Institución:** INACAP / Banco Itaú.
 - **Aporte:** Levantamiento de perfiles de cargo analíticos, aplicación y baremación de pruebas psicométricas (DISC, Zulliger, Lüscher) y estructuración de entrevistas por competencias mediante el modelo STAR.
 
