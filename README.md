@@ -1,4 +1,4 @@
-# ¡Hola! Soy Jesús González Domínguez 👋
+<h1 align="center">¡Hola! Soy Jesús González Domínguez 👋</h1>
 
 <p align="center">
   <strong>Analista de Datos | People Analytics & Comportamiento Humano | Psicólogo Organizacional</strong><br>
