@@ -39,7 +39,7 @@ Además, integro activamente herramientas de **IA Generativa** en flujos de trab
 #### **Inteligencia Artificial Aplicada & Herramientas Avanzadas**
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-4A154B?style=flat-square&logo=openai&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
-![Kiro](https://img.shields.io/badge/Kiro-7C3AED?style=flat-square)
+![Kiro](https://img.shields.io/badge/Kiro-7C3AED?style=flat-square&logo=robotframework&logoColor=white)
 ![LLM Integration](https://img.shields.io/badge/LLMs_(Claude_|_ChatGPT_|_Gemini)-0A85EA?style=flat-square&logo=google&logoColor=white)
 
 #### **Entornos de Desarrollo & Cloud**
@@ -48,9 +48,9 @@ Además, integro activamente herramientas de **IA Generativa** en flujos de trab
 ![AWS](https://img.shields.io/badge/AWS_Básico_(EC2_|_S3)-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
 #### **People Analytics & Evaluación Organizacional**
-![People Analytics](https://img.shields.io/badge/People_Analytics-6C5CE7?style=flat-square)
-![Competencias STAR](https://img.shields.io/badge/Modelo_STAR-00B894?style=flat-square)
-![Psicometría](https://img.shields.io/badge/Pruebas_Psicométricas_(DISC_|_Zulliger_|_Lüscher)-0984E3?style=flat-square)
+![People Analytics](https://img.shields.io/badge/People_Analytics-6C5CE7?style=flat-square&logo=chartdotjs&logoColor=white)
+![Competencias STAR](https://img.shields.io/badge/Modelo_STAR-00B894?style=flat-square&logo=target&logoColor=white)
+![Psicometría](https://img.shields.io/badge/Pruebas_Psicométricas_(DISC_|_Zulliger_|_Lüscher)-0984E3?style=flat-square&logo=thealgorithms&logoColor=white)
 
 ---
 
